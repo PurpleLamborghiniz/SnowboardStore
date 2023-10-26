@@ -1,0 +1,76 @@
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.AssemblyReference.cache
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\MainWindow.g.cs
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\App.g.cs
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_Content.g.cs
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_MarkupCompile.cache
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_MarkupCompile.lref
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\MainWindow.baml
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.g.resources
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.GenerateResource.cache
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.pdb
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.exe.config
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.exe
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.pdb
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.dll
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.xml
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.Properties.Resources.resources
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.CoreCompileInputs.cache
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.CopyComplete
+C:\Users\8 987 229 30-84\source\repos\Test1\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.exe
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.exe.config
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.exe
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.pdb
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.dll
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.xml
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.AssemblyReference.cache
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Components\ItemUserControl.g.cs
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\MainWindow.g.cs
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Pages\ItemList.g.cs
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\App.g.cs
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_Content.g.cs
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_MarkupCompile.cache
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_MarkupCompile.lref
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Components\ItemUserControl.baml
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\MainWindow.baml
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Pages\ItemList.baml
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.g.resources
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.Properties.Resources.resources
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.GenerateResource.cache
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.CoreCompileInputs.cache
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.CopyComplete
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.exe
+C:\Users\212111\Desktop\Магазин техники\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.pdb
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.exe.config
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.exe
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\TechnicalShop.pdb
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.dll
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.xml
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Components\ItemUserControl.g.cs
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\MainWindow.g.cs
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Pages\ItemList.g.cs
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\App.g.cs
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_Content.g.cs
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_MarkupCompile.cache
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop_MarkupCompile.lref
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Components\ItemUserControl.baml
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\MainWindow.baml
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\Pages\ItemList.baml
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.g.resources
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.Properties.Resources.resources
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.csproj.CopyComplete
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.exe
+C:\Users\Максим\Desktop\wpf2\Магазин техники\TechnicalShop\TechnicalShop\obj\Debug\TechnicalShop.pdb
